@@ -1,0 +1,62 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "FieldContent",
+				"value": "air",
+				"type": "Text"
+			},
+			"items": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"position",
+								{
+									"__TYPE__": "FieldContent",
+									"value": "attention",
+									"type": "Text"
+								}
+							],
+							[
+								"year",
+								{
+									"__TYPE__": "FieldContent",
+									"value": "cutting",
+									"type": "Text"
+								}
+							],
+							[
+								"institution",
+								{
+									"__TYPE__": "FieldContent",
+									"value": "our",
+									"type": "Text"
+								}
+							],
+							[
+								"description",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Magna minim laboris voluptate aute velit cillum consectetur id est nostrud et consectetur id. Eu culpa anim nulla exercitation commodo. Eu mollit commodo et Lorem et tempor anim."
+											}
+										}
+									]
+								}
+							]
+						]
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
