@@ -1,6 +1,6 @@
 # Anisha Pandya's portfolio-website
 
-This is my personal portfolio website built with [Svelte](https://svelte.dev/) and [Prismic](https://prismic.io/). The site showcases my coding projects, blog posts, and personal brand with interactive animations powered by [GSAP](https://greensock.com/gsap/) and immersive 3D visuals using [three.js](https://threejs.org/).
+This is my [personal portfolio](https://anisha-manohar-pandya.com/) website built with [Svelte](https://svelte.dev/) and [Prismic](https://prismic.io/). The site showcases my coding projects, blog posts, and personal brand with interactive animations powered by [GSAP](https://greensock.com/gsap/) and immersive 3D visuals using [three.js](https://threejs.org/).
 
 ## Table of Contents
 
